@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Neha-hub2345/Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Neha-hub2345/Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
