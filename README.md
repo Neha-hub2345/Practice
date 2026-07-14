@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neha-hub2345/Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Neha-hub2345/Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
