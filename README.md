@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neha-hub2345/Practice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Neha-hub2345/Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Neha-hub2345/Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
