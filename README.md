@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Neha-hub2345/Practice/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
+| [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Neha-hub2345/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Neha-hub2345/Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neha-hub2345/Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0053-maximum-subarray) |
+| [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,4 +125,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Neha-hub2345/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
