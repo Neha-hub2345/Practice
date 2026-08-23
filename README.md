@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Neha-hub2345/Practice/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Neha-hub2345/Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Neha-hub2345/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
 | [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Neha-hub2345/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Neha-hub2345/Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neha-hub2345/Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Neha-hub2345/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Minimax
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
