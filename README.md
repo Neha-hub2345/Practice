@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Neha-hub2345/Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
+| [0771-jewels-and-stones](https://github.com/Neha-hub2345/Practice/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/Neha-hub2345/Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Neha-hub2345/Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Neha-hub2345/Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Neha-hub2345/Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Neha-hub2345/Practice/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Neha-hub2345/Practice/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/Neha-hub2345/Practice/tree/master/2351-first-letter-to-appear-twice) |
