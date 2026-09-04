@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Neha-hub2345/Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Neha-hub2345/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neha-hub2345/Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Neha-hub2345/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Neha-hub2345/Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
