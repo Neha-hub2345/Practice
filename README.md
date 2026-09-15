@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neha-hub2345/Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Neha-hub2345/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/Neha-hub2345/Practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Neha-hub2345/Practice/tree/master/0904-fruit-into-baskets) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Neha-hub2345/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Neha-hub2345/Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Neha-hub2345/Practice/tree/master/0071-simplify-path) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Neha-hub2345/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neha-hub2345/Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Neha-hub2345/Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Neha-hub2345/Practice/tree/master/0904-fruit-into-baskets) |
