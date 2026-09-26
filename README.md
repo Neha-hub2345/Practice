@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Neha-hub2345/Practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Neha-hub2345/Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Neha-hub2345/Practice/tree/master/0371-sum-of-two-integers) |
 | [2351-first-letter-to-appear-twice](https://github.com/Neha-hub2345/Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Neha-hub2345/Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Neha-hub2345/Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Neha-hub2345/Practice/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Neha-hub2345/Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Neha-hub2345/Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Neha-hub2345/Practice/tree/master/0904-fruit-into-baskets) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Neha-hub2345/Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
