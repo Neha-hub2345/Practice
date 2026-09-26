@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Neha-hub2345/Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Neha-hub2345/Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Neha-hub2345/Practice/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Neha-hub2345/Practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Neha-hub2345/Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neha-hub2345/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Neha-hub2345/Practice/tree/master/0135-candy) |
 | [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [2706-buy-two-chocolates](https://github.com/Neha-hub2345/Practice/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Neha-hub2345/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
