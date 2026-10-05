@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Neha-hub2345/Practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Neha-hub2345/Practice/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/Neha-hub2345/Practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Neha-hub2345/Practice/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Neha-hub2345/Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -249,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
