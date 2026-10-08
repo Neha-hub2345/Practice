@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Neha-hub2345/Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Neha-hub2345/Practice/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Neha-hub2345/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Neha-hub2345/Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Neha-hub2345/Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neha-hub2345/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neha-hub2345/Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Neha-hub2345/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Neha-hub2345/Practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Neha-hub2345/Practice/tree/master/0904-fruit-into-baskets) |
 | [2351-first-letter-to-appear-twice](https://github.com/Neha-hub2345/Practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Neha-hub2345/Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Neha-hub2345/Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Neha-hub2345/Practice/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Neha-hub2345/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Neha-hub2345/Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Neha-hub2345/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Neha-hub2345/Practice/tree/master/1991-find-the-middle-index-in-array) |
