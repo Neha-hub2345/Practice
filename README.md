@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Neha-hub2345/Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neha-hub2345/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Neha-hub2345/Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neha-hub2345/Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Neha-hub2345/Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Neha-hub2345/Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Neha-hub2345/Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neha-hub2345/Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Neha-hub2345/Practice/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Neha-hub2345/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neha-hub2345/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Neha-hub2345/Practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Neha-hub2345/Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Neha-hub2345/Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Neha-hub2345/Practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neha-hub2345/Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
