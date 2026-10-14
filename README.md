@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Neha-hub2345/Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Neha-hub2345/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Neha-hub2345/Practice/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/Neha-hub2345/Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Neha-hub2345/Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Neha-hub2345/Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Neha-hub2345/Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neha-hub2345/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Neha-hub2345/Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Neha-hub2345/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Neha-hub2345/Practice/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Neha-hub2345/Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Neha-hub2345/Practice/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Neha-hub2345/Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Neha-hub2345/Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neha-hub2345/Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neha-hub2345/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Neha-hub2345/Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Neha-hub2345/Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Neha-hub2345/Practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Neha-hub2345/Practice/tree/master/0125-valid-palindrome) |
