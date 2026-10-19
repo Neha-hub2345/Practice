@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Neha-hub2345/Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neha-hub2345/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Neha-hub2345/Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Neha-hub2345/Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neha-hub2345/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Neha-hub2345/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Neha-hub2345/Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Neha-hub2345/Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
