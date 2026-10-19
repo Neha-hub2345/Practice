@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neha-hub2345/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Neha-hub2345/Practice/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Neha-hub2345/Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Neha-hub2345/Practice/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Neha-hub2345/Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Neha-hub2345/Practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neha-hub2345/Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Neha-hub2345/Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Neha-hub2345/Practice/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Neha-hub2345/Practice/tree/master/0771-jewels-and-stones) |
