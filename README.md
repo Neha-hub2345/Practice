@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neha-hub2345/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Neha-hub2345/Practice/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Neha-hub2345/Practice/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Neha-hub2345/Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Neha-hub2345/Practice/tree/master/0905-sort-array-by-parity) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Neha-hub2345/Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Neha-hub2345/Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Neha-hub2345/Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Neha-hub2345/Practice/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Neha-hub2345/Practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Neha-hub2345/Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neha-hub2345/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Neha-hub2345/Practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neha-hub2345/Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Neha-hub2345/Practice/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Neha-hub2345/Practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Neha-hub2345/Practice/tree/master/0796-rotate-string) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Neha-hub2345/Practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neha-hub2345/Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neha-hub2345/Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Neha-hub2345/Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Neha-hub2345/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Neha-hub2345/Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Neha-hub2345/Practice/tree/master/0904-fruit-into-baskets) |
