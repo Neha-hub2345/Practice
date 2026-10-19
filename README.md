@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Neha-hub2345/Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neha-hub2345/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Neha-hub2345/Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Neha-hub2345/Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Neha-hub2345/Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/Neha-hub2345/Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neha-hub2345/Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Neha-hub2345/Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Neha-hub2345/Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
