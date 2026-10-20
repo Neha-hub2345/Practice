@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Neha-hub2345/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Neha-hub2345/Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Neha-hub2345/Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Neha-hub2345/Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neha-hub2345/Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2706-buy-two-chocolates](https://github.com/Neha-hub2345/Practice/tree/master/2706-buy-two-chocolates) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
 | [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Neha-hub2345/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Neha-hub2345/Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neha-hub2345/Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neha-hub2345/Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Neha-hub2345/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -342,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Neha-hub2345/Practice/tree/master/0014-longest-common-prefix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
