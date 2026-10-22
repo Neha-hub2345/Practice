@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Neha-hub2345/Practice/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
+| [1492-the-kth-factor-of-n](https://github.com/Neha-hub2345/Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/Neha-hub2345/Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neha-hub2345/Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Neha-hub2345/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Neha-hub2345/Practice/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
