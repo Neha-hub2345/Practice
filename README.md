@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neha-hub2345/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neha-hub2345/Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Neha-hub2345/Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0283-move-zeroes) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Neha-hub2345/Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Neha-hub2345/Practice/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -223,12 +225,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neha-hub2345/Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Neha-hub2345/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Neha-hub2345/Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
@@ -357,4 +361,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
