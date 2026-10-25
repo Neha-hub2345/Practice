@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0633-sum-of-square-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/Neha-hub2345/Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/Neha-hub2345/Practice/tree/master/1510-stone-game-iv) |
+| [1922-count-good-numbers](https://github.com/Neha-hub2345/Practice/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Neha-hub2345/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Neha-hub2345/Practice/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/Neha-hub2345/Practice/tree/master/1922-count-good-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
