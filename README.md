@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Neha-hub2345/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Neha-hub2345/Practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Neha-hub2345/Practice/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Neha-hub2345/Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Neha-hub2345/Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neha-hub2345/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Neha-hub2345/Practice/tree/master/0169-majority-element) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Neha-hub2345/Practice/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Neha-hub2345/Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Neha-hub2345/Practice/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/0856-score-of-parentheses) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Neha-hub2345/Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Neha-hub2345/Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Neha-hub2345/Practice/tree/master/0231-power-of-two) |
