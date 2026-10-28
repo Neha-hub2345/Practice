@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Neha-hub2345/Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Neha-hub2345/Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Neha-hub2345/Practice/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/Neha-hub2345/Practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Neha-hub2345/Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Neha-hub2345/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Neha-hub2345/Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Neha-hub2345/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Neha-hub2345/Practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neha-hub2345/Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Neha-hub2345/Practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Neha-hub2345/Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Neha-hub2345/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Neha-hub2345/Practice/tree/master/0567-permutation-in-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Neha-hub2345/Practice/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neha-hub2345/Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Neha-hub2345/Practice/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Neha-hub2345/Practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Neha-hub2345/Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Neha-hub2345/Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -389,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Neha-hub2345/Practice/tree/master/1492-the-kth-factor-of-n) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Neha-hub2345/Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
