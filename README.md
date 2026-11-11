@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Neha-hub2345/Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neha-hub2345/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Neha-hub2345/Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Neha-hub2345/Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Neha-hub2345/Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Neha-hub2345/Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Neha-hub2345/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Neha-hub2345/Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Neha-hub2345/Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Neha-hub2345/Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Neha-hub2345/Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## String
 |  |
 | ------- |
