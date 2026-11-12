@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Neha-hub2345/Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Neha-hub2345/Practice/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Neha-hub2345/Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Neha-hub2345/Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Neha-hub2345/Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Neha-hub2345/Practice/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Neha-hub2345/Practice/tree/master/0905-sort-array-by-parity) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Neha-hub2345/Practice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Neha-hub2345/Practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Neha-hub2345/Practice/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Neha-hub2345/Practice/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Neha-hub2345/Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/Neha-hub2345/Practice/tree/master/1927-sum-game) |
 | [2706-buy-two-chocolates](https://github.com/Neha-hub2345/Practice/tree/master/2706-buy-two-chocolates) |
